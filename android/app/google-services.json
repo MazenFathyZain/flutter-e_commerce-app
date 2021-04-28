@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "266449980780",
+    "firebase_url": "https://eshop-a3b48.firebaseio.com",
+    "project_id": "eshop-a3b48",
+    "storage_bucket": "eshop-a3b48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266449980780:android:f351378dc45b05746e3749",
+        "android_client_info": {
+          "package_name": "com.mazen.e_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266449980780-qr2m0pgdn2oi417ofbvckqk5ml0afuo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuZJzpCGA6Rn-arFOsjaUlUOKJ1jy1diM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266449980780-qr2m0pgdn2oi417ofbvckqk5ml0afuo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
